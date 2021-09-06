@@ -50,11 +50,11 @@ The results are as follows:
 | SNR function | log-scale SNR image | deblurred image |
 |:------------:|:-------------------:|:---------------:|
 | Known SNR from original image | <img src="img/image_power.jpg"> | <img src="img/wiener_exact.jpg"> |
-| <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{\omega%20_1^2%2b\omega%20_2^2}"> | <img src="img/SNR1.jpg"> | <img src="img/wiener_approx1.jpg"> |
-| <img src="https://render.githubusercontent.com/render/math?math=\omega%20_1^2%2b\omega%20_2^2"> | <img src="img/SNR2.jpg"> | <img src="img/wiener_approx2.jpg"> |
-| <img src="https://render.githubusercontent.com/render/math?math=\large\max\left\{\frac{1}{\omega%20_1},%20\frac{1}{\omega%20_2}\right\}"> | <img src="img/SNR3.jpg"> | <img src="img/wiener_approx3.jpg"> |
-| <img src="https://render.githubusercontent.com/render/math?math=\omega%20_1^{-0.6}%2b\omega%20_2^{-0.6}"> | <img src="img/SNR4.jpg"> | <img src="img/wiener_approx4.jpg"> |
-| <img src="https://render.githubusercontent.com/render/math?math=\omega%20_1^{-0.6}*\omega%20_2^{-0.6}"> | <img src="img/SNR5.jpg"> | <img src="img/wiener_approx5.jpg"> |
+| <img src="https://render.githubusercontent.com/render/math?math=\LARGE\frac{1}{\omega%20_1^2%2b\omega%20_2^2}"> | <img src="img/SNR1.jpg"> | <img src="img/wiener_approx1.jpg"> |
+| <img src="https://render.githubusercontent.com/render/math?math=\LARGE\omega%20_1^2%2b\omega%20_2^2"> | <img src="img/SNR2.jpg"> | <img src="img/wiener_approx2.jpg"> |
+| <img src="https://render.githubusercontent.com/render/math?math=\LARGE\max\left\{\frac{1}{\omega%20_1},%20\frac{1}{\omega%20_2}\right\}"> | <img src="img/SNR3.jpg"> | <img src="img/wiener_approx3.jpg"> |
+| <img src="https://render.githubusercontent.com/render/math?math=\LARGE\omega%20_1^{-0.6}%2b\omega%20_2^{-0.6}"> | <img src="img/SNR4.jpg"> | <img src="img/wiener_approx4.jpg"> |
+| <img src="https://render.githubusercontent.com/render/math?math=\LARGE\omega%20_1^{-0.6}*\omega%20_2^{-0.6}"> | <img src="img/SNR5.jpg"> | <img src="img/wiener_approx5.jpg"> |
 
 <br>
 
