@@ -1,6 +1,6 @@
 # Project 2: Image Inpainting using Sparse Coding and Dictionary Learning
 
-Main code: [K_SVD.py](K_SVD.py)
+Main code: [Inpainting.py](Inpainting.py)
 
 Full report: [report.pdf](HW2_report.pdf)
 
