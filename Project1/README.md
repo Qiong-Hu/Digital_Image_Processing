@@ -1,6 +1,6 @@
-# Project 1: Image Deconvolution
+# Project 1: Image Deblur using Deconvolution Algorithm
 
-Main code: [Deconvolution.py](Deconvolution.py)
+Main code: [Deconv.py](Deconv.py)
 
 Full report: [report.pdf](HW1_report.pdf)
 
