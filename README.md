@@ -1,6 +1,6 @@
 # Digital Image Processing
 
-## [Project 1: Image Deblur using Deconvolution Algorithm](https://github.com/Qiong-Hu/Digital_Image_Processing/blob/master/Project1)
+## [Project 1: Image Deblur using Deconvolution Algorithm](https://github.com/Qiong-Hu/Digital_Image_Processing/tree/master/Project1)
 
 ### Content
 
@@ -9,7 +9,7 @@
 - Experiment with different approximation of SNR function for Wiener Filter algorithm
 - Evaluate quantitatively the performance of different deconvolution algorithms
 
-## [Project 2: Image Inpainting using Sparse Coding and Dictionary Learning](https://github.com/Qiong-Hu/Digital_Image_Processing/blob/master/Project2)
+## [Project 2: Image Inpainting using Sparse Coding and Dictionary Learning](https://github.com/Qiong-Hu/Digital_Image_Processing/tree/master/Project2)
 
 ### Content
 
@@ -18,7 +18,7 @@
 - Implement these two algorithms for an image inpainting task, which aims to remove extra text content on an image
 - Evaluate quantitatively the reconstruction performance
 
-## [Project 3: Image Classification using Convolutional Neural Networks (CNN)](https://github.com/Qiong-Hu/Digital_Image_Processing/blob/master/Project3)
+## [Project 3: Image Classification using Convolutional Neural Networks (CNN)](https://github.com/Qiong-Hu/Digital_Image_Processing/tree/master/Project3)
 
 ### Content
 
