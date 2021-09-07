@@ -56,6 +56,10 @@ Training loss history:
 
 <img src="img/training_loss_nodropout.jpg">
 
+Confusion matrix:
+
+<img src="img/confusion_matrix.png">
+
 Average model accuracy on the training set is: 98.38%
 
 Average model accuracy on the testing set is: 72.04%
