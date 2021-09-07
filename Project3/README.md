@@ -56,7 +56,7 @@ Training loss history:
 
 <img src="img/training_loss_nodropout.jpg">
 
-Confusion matrix:
+Confusion matrix of testing set:
 
 <img src="img/confusion_matrix.png">
 
